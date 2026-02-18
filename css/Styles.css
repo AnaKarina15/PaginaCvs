@@ -272,7 +272,7 @@ header {
     /* Ajuste de la barra blanca superior */
     .top-header {
         height: auto;
-        padding: 5px 10px;
+        padding: 10px 10px;
         flex-direction: row;
         justify-content: space-between;
         flex-wrap: nowrap; /* Evita que se rompa en varias filas */
