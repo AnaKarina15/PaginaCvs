@@ -291,8 +291,6 @@ header {
         text-align: center;
     }
 
-
-
     /* Ocultamos casi todos los iconos de herramientas en móvil */
     .header-tools .icon-wrapper:not(:last-child) {
         display: none;
